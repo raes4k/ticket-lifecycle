@@ -29,7 +29,7 @@ From the perspective of an admin, they will receive the ticket requests from the
 <p>
 <img src="https://i.imgur.com/nUYlnfN.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/KI0Yfju.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/YhXK7WL.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/5yCTjFV.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
 When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. One of these tickets are assigned to John from Jane and Jane herself was able to manage a ticket by herself. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
