@@ -18,7 +18,7 @@ In order to create tickets, users have to enter the ticket portal and log in if 
 <br />
 
 <p>
-<img src="https://i.imgur.com/8J4gYRr.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/jyQfjqt.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/COfD3VN.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
